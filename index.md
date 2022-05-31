@@ -34,32 +34,46 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Conference Paper
 
 1. **Machine learning based protocol classification in unlicensed 5 GHz bands**
+
 **Wenhan Zhang** and Marwan Krunz
+
 IEEE International Conference on Communications (ICC) 2022 Conference - Workshop on Spectrum Sharing Technology for Next Generation Communications, Seoul, South Korea,  May 2022.
 
 2. **Application of adversarial machine learning in protocol and modulation misclassification**
+
 **Wenhan Zhang**, Marwan Krunz, and Gregory Ditzler
+
 Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications Conference (part of SPIE Defense and Commercial Sensing Symposium), April 2022.
 
 3. **Intelligent jamming of deep neural network based signal classification for shared spectrum**
+
 **Wenhan Zhang**, Marwan Krunz, and Gregory Ditzler
+
 IEEE Military Communications Conference (MILCOM)– Track 5, San Diego, Nov. 29 – Dec. 2, 2021
 
 4. **Task partitioning and user association for latency minimization in mobile edge computing networks**
+
 Mingjie Feng, Marwan Krunz, and **Wenhan Zhang**
+
 IEEE International Workshop on Intelligent Cloud Computing and Networking (ICCN) 2021 in conjunction with the IEEE INFOCOM 2021 Conference, May 2021.
 
 5. **Signal detection and classification in shared spectrum: A deep learning approach**
+
 **Wenhan Zhang**, Mingjie Feng, Marwan Krunz
+
 IEEE International Conference on Computer Communications (INFOCOM) 2021 Conference, May 2021 (acceptance rate 19.9%)
 
 6. **Latency prediction for delay-sensitive V2X applications in mobile cloud/edge computing systems**
+
 **Wenhan Zhang**, Mingjie Feng, Marwan Krunz, and Haris Volos
+
 IEEE Global Communications Conference (GLOBECOM) Conference, Taipei, Taiwan, Dec. 2020.
 
 
 ### Journal Paper
 
 1. **Joint task partitioning and user association for latency minimization in mobile edge computing networks**
+
 Mingjie Feng, Marwan Krunz, and **Wenhan Zhang**
+
 IEEE Transactions on Vehicular Technology (TVT), vol. 70, no. 8, pp. 8108-8121, Aug. 2021.
