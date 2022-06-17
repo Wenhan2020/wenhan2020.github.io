@@ -1,4 +1,20 @@
 theme: jekyll-theme-minimal
 title: Wenhan Zhang
-name: &name "Wenhan Zhang"
+# name: &name "Wenhan Zhang"
 locale: "en-US"
+
+logo: /Wenhan2.jpg
+
+
+
+keywords: Homepage, CV, Academic
+description: Homepage
+
+
+author:
+    name: Wenhan Zhang
+    email: wenhanzhang@email.arizona.edu 
+    github: wenhan2020  
+    linkedin: Wenhan Zhang 
+
+avatar: /Wenhan2.jpg
