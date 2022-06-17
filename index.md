@@ -53,5 +53,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 * **Latency prediction for delay-sensitive V2X applications in mobile cloud/edge computing systems**, **Wenhan Zhang**, Mingjie Feng, Marwan Krunz, and Haris Volos, IEEE Global Communications Conference (GLOBECOM) Conference, Taipei, Taiwan, Dec. 2020.
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=IGKM7piVRtoLmq7_DqwibQ0dbwkEMuvRrNEiZ2u6Jvo&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XL9Gt-Ypm1UWZHhIAiEAZymffEFjoAnjf_6YinPu1do&cl=ffffff&w=a"></script>
 
