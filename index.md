@@ -8,7 +8,7 @@ I'm a fourth-year Ph.D. student @ the [University of Arizona](https://www.arizon
 
 You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm looking for a full-time job.
 
-# New
+# News
 * [05/2022] I will join Intel Lab for summer intership.
 * [03/2022] One paper is accepted by IEEE ICC'22 Workshop on Spectrum Sharing Technology for Next Generation Communications.
 * [10/2021] One paper is accepted by IEEE MILCOM'21.
