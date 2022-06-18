@@ -4,13 +4,21 @@
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-I'm a fourth-year Ph.D. student @ the [University of Arizona](https://www.arizona.edu/admissions?gclid=CjwKCAjwqauVBhBGEiwAXOepkSKueiG3QsLdkJ6xL-t-di_FFhJ9HqhBQPh7FHvI2KLnCFmRwH1H4RoCic8QAvD_BwE). I'm working for the [WICON Lab](https://wireless.ece.arizona.edu/) in the department of electrical and computer engineering under supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz). My current project focuses on the interdisciplinary research between wireless networking and the application of machine learning.
-<!-- I'm looking for an internship/full-time job. -->
-
-My primary research interests include **adversarial machine learning for wireless networks**, **spectrum sharing** and **mobile cloud/edge computing**.
+I'm a fourth-year Ph.D. student @ the [University of Arizona](https://www.arizona.edu/admissions?gclid=CjwKCAjwqauVBhBGEiwAXOepkSKueiG3QsLdkJ6xL-t-di_FFhJ9HqhBQPh7FHvI2KLnCFmRwH1H4RoCic8QAvD_BwE). I'm working for the [WICON Lab](https://wireless.ece.arizona.edu/) in the department of electrical and computer engineering under supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz). My primary research interests include **adversarial machine learning for wireless networks**, **spectrum sharing** and **mobile cloud/edge computing**.
 
 You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm looking for a full-time job.
 
+# New
+* [05/2022] I will join Intel Lab for summer intership.
+* [03/2022] One paper is accepted by IEEE ICC'22 Workshop on Spectrum Sharing Technology for Next Generation Communications.
+* [10/2021] One paper is accepted by IEEE MILCOM'21.
+* [01/2021] One paper is accepted by IEEE ICCN Workshop in conjunction with IEEE INFOCOM'21.
+* [12/2020] One paper is accepted by IEEE INFOCOM'21.
+<!-- * [08/2021] I will serve as a journal reviewer for IEEE Transactions on Big Data.
+* [09/2020] I will serve as a PC member for AAAI'21.
+* [05/2020] One research paper is accepted by ACM Conference on Hypertext and Social Media (HT’20).
+* [05/2020] I will join Futurewei's IC-Lab/AI group as a summer intern.
+* [12/2019] I will attend NeurIPS in Vancouver, Canada. See you there! -->
 
 # Publications
 
