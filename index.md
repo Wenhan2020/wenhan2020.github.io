@@ -14,11 +14,6 @@ You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.ari
 * [10/2021] One paper is accepted by IEEE MILCOM'21.
 * [01/2021] One paper is accepted by IEEE ICCN Workshop in conjunction with IEEE INFOCOM'21.
 * [12/2020] One paper is accepted by IEEE INFOCOM'21.
-<!-- * [08/2021] I will serve as a journal reviewer for IEEE Transactions on Big Data.
-* [09/2020] I will serve as a PC member for AAAI'21.
-* [05/2020] One research paper is accepted by ACM Conference on Hypertext and Social Media (HT’20).
-* [05/2020] I will join Futurewei's IC-Lab/AI group as a summer intern.
-* [12/2019] I will attend NeurIPS in Vancouver, Canada. See you there! -->
 
 # Publications
 
