@@ -43,7 +43,7 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 
 
-* **Machine learning based protocol classification in unlicensed 5 GHz bands**, *Wenhan Zhang and Marwan Krunz, IEEE International Conference on Communications (ICC) 2022 Conference - Workshop on Spectrum Sharing Technology for Next Generation Communications, Seoul, South Korea,  May 2022.
+* **Machine learning based protocol classification in unlicensed 5 GHz bands**, *Wenhan Zhang and Marwan Krunz, IEEE International Conference on Communications (ICC) 2022 Conference - Workshop on Spectrum Sharing Technology for Next Generation Communications, Seoul, South Korea,  May 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icc_ws22.pdf)
 
 * **Application of adversarial machine learning in protocol and modulation misclassification**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications Conference (part of SPIE Defense and Commercial Sensing Symposium), April 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/spie_22.pdf)
 
