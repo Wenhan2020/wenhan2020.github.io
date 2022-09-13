@@ -57,7 +57,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 * **Signal detection and classification in shared spectrum: A deep learning approach**, *Wenhan Zhang, Mingjie Feng, Marwan Krunz, IEEE International Conference on Computer Communications (INFOCOM) 2021 Conference, May 2021 (acceptance rate 19.9%). [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/Infocom_2021.pdf)
 
-* **Latency prediction for delay-sensitive V2X applications in mobile cloud/edge computing systems**, *Wenhan Zhang, Mingjie Feng, Marwan Krunz, and Haris Volos, IEEE Global Communications Conference (GLOBECOM) Conference, Taipei, Taiwan, Dec. 2020. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/globecom_2020.pdf)
+* **Latency prediction for delay-sensitive V2X applications in mobile cloud/edge computing systems**, *Wenhan Zhang, Mingjie Feng, Marwan Krunz, and Haris Volos, IEEE Global Communications Conference (GLOBECOM) Conference, Taipei, Taiwan, Dec. 2020. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/globecom2020.pdf)
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XL9Gt-Ypm1UWZHhIAiEAZymffEFjoAnjf_6YinPu1do&cl=ffffff&w=a"></script>
