@@ -47,7 +47,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 * **Machine learning based protocol classification in unlicensed 5 GHz bands**, *Wenhan Zhang and Marwan Krunz, IEEE International Conference on Communications (ICC) 2022 Conference - Workshop on Spectrum Sharing Technology for Next Generation Communications, Seoul, South Korea,  May 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icc_ws22.pdf)
 
-* **Application of adversarial machine learning in protocol and modulation misclassification**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications Conference (part of SPIE Defense and Commercial Sensing Symposium), April 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/spie_22.pdf)
+* **Application of adversarial machine learning in protocol and modulation misclassification**, Marwan Krunz, *Wenhan Zhang, and Gregory Ditzler, Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications Conference (part of SPIE Defense and Commercial Sensing Symposium), April 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/spie_22.pdf)
 
 
 * **Joint task partitioning and user association for latency minimization in mobile edge computing networks**, Mingjie Feng, Marwan Krunz, and *Wenhan Zhang, IEEE Transactions on Vehicular Technology (TVT), vol. 70, no. 8, pp. 8108-8121, Aug. 2021.
