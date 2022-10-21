@@ -45,20 +45,20 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 
 
-* **Machine learning based protocol classification in unlicensed 5 GHz bands**, *Wenhan Zhang and Marwan Krunz, IEEE International Conference on Communications (ICC) 2022 Conference - Workshop on Spectrum Sharing Technology for Next Generation Communications, Seoul, South Korea,  May 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icc_ws22.pdf)
+* **Machine learning based protocol classification in unlicensed 5 GHz bands**, *Wenhan Zhang and Marwan Krunz, Proc. of the IEEE International Conference on Communications (ICC) 2022 Conference - Workshop on Spectrum Sharing Technology for Next Generation Communications, Seoul, South Korea,  May 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icc_ws22.pdf)
 
-* **Application of adversarial machine learning in protocol and modulation misclassification**, Marwan Krunz, *Wenhan Zhang, and Gregory Ditzler, Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications Conference (part of SPIE Defense and Commercial Sensing Symposium), April 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/spie_22.pdf)
+* **Application of adversarial machine learning in protocol and modulation misclassification**, Marwan Krunz, *Wenhan Zhang, and Gregory Ditzler, Proc. of the Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications Conference (part of SPIE Defense and Commercial Sensing Symposium), April 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/spie_22.pdf)
 
 
 * **Joint task partitioning and user association for latency minimization in mobile edge computing networks**, Mingjie Feng, Marwan Krunz, and *Wenhan Zhang, IEEE Transactions on Vehicular Technology (TVT), vol. 70, no. 8, pp. 8108-8121, Aug. 2021.
 
-* **Intelligent jamming of deep neural network based signal classification for shared spectrum**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, IEEE Military Communications Conference (MILCOM)– Track 5, San Diego, Nov. 29 – Dec. 2, 2021. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/milcom_2021.pdf)
+* **Intelligent jamming of deep neural network based signal classification for shared spectrum**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, Proc. of the IEEE Military Communications Conference (MILCOM)– Track 5, San Diego, Nov. 29 – Dec. 2, 2021. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/milcom_2021.pdf)
 
-* **Task partitioning and user association for latency minimization in mobile edge computing networks**, Mingjie Feng, Marwan Krunz, and *Wenhan Zhang, IEEE International Workshop on Intelligent Cloud Computing and Networking (ICCN) 2021 in conjunction with the IEEE INFOCOM 2021 Conference, May 2021.[\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/infocom_ws21.pdf)
+* **Task partitioning and user association for latency minimization in mobile edge computing networks**, Mingjie Feng, Marwan Krunz, and *Wenhan Zhang, Proc. of the IEEE International Workshop on Intelligent Cloud Computing and Networking (ICCN) 2021 in conjunction with the IEEE INFOCOM 2021 Conference, May 2021.[\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/infocom_ws21.pdf)
 
-* **Signal detection and classification in shared spectrum: A deep learning approach**, *Wenhan Zhang, Mingjie Feng, Marwan Krunz, IEEE International Conference on Computer Communications (INFOCOM) 2021 Conference, May 2021 (acceptance rate 19.9%). [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/Infocom_2021.pdf)
+* **Signal detection and classification in shared spectrum: A deep learning approach**, *Wenhan Zhang, Mingjie Feng, Marwan Krunz, Proc. of the IEEE International Conference on Computer Communications (INFOCOM) 2021 Conference, May 2021 (acceptance rate 19.9%). [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/Infocom_2021.pdf)
 
-* **Latency prediction for delay-sensitive V2X applications in mobile cloud/edge computing systems**, *Wenhan Zhang, Mingjie Feng, Marwan Krunz, and Haris Volos, IEEE Global Communications Conference (GLOBECOM) Conference, Taipei, Taiwan, Dec. 2020. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/globecom2020.pdf)
+* **Latency prediction for delay-sensitive V2X applications in mobile cloud/edge computing systems**, *Wenhan Zhang, Mingjie Feng, Marwan Krunz, and Haris Volos, Proc. of the IEEE Global Communications Conference (GLOBECOM) Conference, Taipei, Taiwan, Dec. 2020. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/globecom2020.pdf)
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XL9Gt-Ypm1UWZHhIAiEAZymffEFjoAnjf_6YinPu1do&cl=ffffff&w=a"></script>
