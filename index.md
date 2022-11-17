@@ -9,7 +9,7 @@ I'm a fifth-year Ph.D. student @ the [University of Arizona](https://www.arizona
 You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm open to internships and full-time jobs.
 
 # News
-* [11/2022] One paper is accepted by IEEE ICNC'22.
+* [11/2022] One paper is accepted by IEEE ICNC'23.
 * [11/2022] I will serve as a reviewer for IEEE Journal on Selected Areas in Communications.
 * [10/2022] I will serve as a reviewer for Elsevier Computer Communications.
 * [05/2022] I will join Intel Labs for the summer internship.
