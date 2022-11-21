@@ -14,12 +14,13 @@ You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.ari
 * [10/2022] I will serve as a reviewer for Elsevier Computer Communications.
 * [05/2022] I will join Intel Labs for the summer internship.
 * [04/2022] I receive the NSF Student Travel Grant for IEEE ICC'22.
+* [03/2022] Our paper is accepted by SPIE Defense + Commercial'22.
 * [03/2022] One paper is accepted by IEEE ICC'22 Workshop on Spectrum Sharing Technology for Next Generation Communications.
 * [11/2021] I receive the Student Travel Grant from IEEE Comsoc to attend MILCOM'21.
 * [10/2021] One paper is accepted by IEEE MILCOM'21.
 * [06/2021] I will serve as a reviewer for IEEE Transactions on Mobile Computing.
-* [01/2021] One paper is accepted by IEEE ICCN Workshop in conjunction with IEEE INFOCOM'21.
-* [12/2020] One paper is accepted by IEEE INFOCOM'21.
+* [05/2021] Our paper is accepted by IEEE Transactions on Vehicular Technology.
+* [01/2021] Two papers are accepted by IEEE INFOCOM'21 and workshops.
 * [08/2020] One paper is accepted by IEEE GLOBECOM'20.
 
 # Publications
