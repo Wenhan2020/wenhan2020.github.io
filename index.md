@@ -64,5 +64,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 * **Latency prediction for delay-sensitive V2X applications in mobile cloud/edge computing systems**, *Wenhan Zhang, Mingjie Feng, Marwan Krunz, and Haris Volos, Proc. of the IEEE Global Communications Conference (GLOBECOM) Conference, Taipei, Taiwan, Dec. 2020. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/globecom2020.pdf)
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XL9Gt-Ypm1UWZHhIAiEAZymffEFjoAnjf_6YinPu1do&cl=ffffff&w=60"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XL9Gt-Ypm1UWZHhIAiEAZymffEFjoAnjf_6YinPu1do&cl=ffffff&w=80"></script>
 
