@@ -9,6 +9,7 @@ I'm a fifth-year Ph.D. student @ the [University of Arizona](https://www.arizona
 You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm open to internships and full-time jobs.
 
 # News
+* [03/2023] I will serve as a reviewer for Elsevier Computer Communications.
 * [02/2023] I will serve as a reviewer for IEEE Transactions on Communications.
 * [11/2022] One paper is accepted by IEEE ICNC'23.
 * [11/2022] I will serve as a reviewer for IEEE Journal on Selected Areas in Communications.
@@ -48,6 +49,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 
+* **Dynamic spectrum access in non-stationary environments: A DRL-LSTM integrated approach**, Mingjie Feng, *Wenhan Zhang, and Marwan Krunz, Proc. of International Conference on Computing, Networking and Communications (ICNC) 2023: AI and Machine Learning for Communications and Networking, Feb. 2023.
 
 * **Machine learning based protocol classification in unlicensed 5 GHz bands**, *Wenhan Zhang and Marwan Krunz, Proc. of the IEEE International Conference on Communications (ICC) 2022 Conference - Workshop on Spectrum Sharing Technology for Next Generation Communications, Seoul, South Korea,  May 2022. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icc_ws22.pdf)
 
@@ -56,7 +58,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 * **Joint task partitioning and user association for latency minimization in mobile edge computing networks**, Mingjie Feng, Marwan Krunz, and *Wenhan Zhang, IEEE Transactions on Vehicular Technology (TVT), vol. 70, no. 8, pp. 8108-8121, Aug. 2021.
 
-* **Intelligent jamming of deep neural network based signal classification for shared spectrum**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, Proc. of the IEEE Military Communications Conference (MILCOM)– Track 5, San Diego, Nov. 29 – Dec. 2, 2021. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/milcom_2021.pdf)
+* **Intelligent jamming of deep neural network based signal classification for shared spectrum**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, Proc. of the IEEE Military Communications Conference (MILCOM) 2021 – Track 5, San Diego, Nov. 29 – Dec. 2, 2021. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/milcom_2021.pdf)
 
 * **Task partitioning and user association for latency minimization in mobile edge computing networks**, Mingjie Feng, Marwan Krunz, and *Wenhan Zhang, Proc. of the IEEE International Workshop on Intelligent Cloud Computing and Networking (ICCN) 2021 in conjunction with the IEEE INFOCOM 2021 Conference, May 2021.[\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/infocom_ws21.pdf)
 
