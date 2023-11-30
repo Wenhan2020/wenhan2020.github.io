@@ -9,6 +9,7 @@ I'm a sixth-year Ph.D. student @ the [University of Arizona](https://www.arizona
 You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm open to internships and full-time jobs.
 
 # News
+* [11/2023] Two papers are accepted by IEEE ICNC'24.
 * [11/2023] Our paper is accepted by IEEE Transactions on Vehicular Technology.
 * [03/2023] I will serve as a reviewer for Elsevier Computer Communications.
 * [02/2023] I will serve as a reviewer for IEEE Transactions on Communications.
