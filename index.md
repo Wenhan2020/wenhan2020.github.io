@@ -51,9 +51,9 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 
-* **CyPA: A cyclic prefix assisted DNN for protocol classification in shared spectrum**, *Wenhan Zhang, Marwan Krunz, and Md Rabiul Hossein, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking, Feb. 2024 (acceptance rate 24.10%).
+* **CyPA: A cyclic prefix assisted DNN for protocol classification in shared spectrum**, *Wenhan Zhang, Marwan Krunz, and Md Rabiul Hossein, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking, Feb. 2024 (acceptance rate 24.10%). [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icnc_2024_zhang.pdf)
   
-* **DL-SIC: Deep learning aided successive interference cancellation in shared spectrum**, Zhiwu Guo, *Wenhan Zhang, Ming Li, Marwan Krunz, and Mohammad Hossein Manshaei, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking, Feb. 2024. 
+* **DL-SIC: Deep learning aided successive interference cancellation in shared spectrum**, Zhiwu Guo, *Wenhan Zhang, Ming Li, Marwan Krunz, and Mohammad Hossein Manshaei, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking, Feb. 2024. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icnc_2024_guo.pdf)
 
 * **Latency estimation and computational task offloading in vehicular mobile edge computing applications**, *Wenhan Zhang, Mingjie Feng, and Marwan Krunz, IEEE Transactions on Vehicular Technology (TVT), Nov. 2023
   
