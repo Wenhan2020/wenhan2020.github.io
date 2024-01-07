@@ -4,7 +4,8 @@
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-I'm a sixth-year Ph.D. student @ the [University of Arizona](https://www.arizona.edu/admissions?gclid=CjwKCAjwqauVBhBGEiwAXOepkSKueiG3QsLdkJ6xL-t-di_FFhJ9HqhBQPh7FHvI2KLnCFmRwH1H4RoCic8QAvD_BwE). I'm working for the [WiCON Lab](https://wireless.ece.arizona.edu/) in the department of electrical and computer engineering under supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz). My primary research interests include **adversarial machine learning for wireless networks**, **spectrum sharing**, and **mobile cloud/edge computing**. [\[CV\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/Wenhan_Dec_2023_wireless_AI_engineer_v1.pdf)
+I'm a sixth-year Ph.D. student @ the [University of Arizona](https://www.arizona.edu/admissions?gclid=CjwKCAjwqauVBhBGEiwAXOepkSKueiG3QsLdkJ6xL-t-di_FFhJ9HqhBQPh7FHvI2KLnCFmRwH1H4RoCic8QAvD_BwE). I'm working for the [WiCON Lab](https://wireless.ece.arizona.edu/) in the department of electrical and computer engineering under supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz). My primary research interests include **adversarial machine learning for wireless networks**, **spectrum sharing**, and **mobile cloud/edge computing**. 
+
 
 You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm open to internships and full-time jobs.
 
@@ -55,7 +56,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
   
 * **DL-SIC: Deep learning aided successive interference cancellation in shared spectrum**, Zhiwu Guo, *Wenhan Zhang, Ming Li, Marwan Krunz, and Mohammad Hossein Manshaei, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking, Feb. 2024. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icnc_2024_guo.pdf)
 
-* **Latency estimation and computational task offloading in vehicular mobile edge computing applications**, *Wenhan Zhang, Mingjie Feng, and Marwan Krunz, IEEE Transactions on Vehicular Technology (TVT), Nov. 2023
+* **Latency estimation and computational task offloading in vehicular mobile edge computing applications**, *Wenhan Zhang, Mingjie Feng, and Marwan Krunz, IEEE Transactions on Vehicular Technology (TVT), Nov. 2023. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/tvt_23.pdf)
   
 * **Dynamic spectrum access in non-stationary environments: A DRL-LSTM integrated approach**, Mingjie Feng, *Wenhan Zhang, and Marwan Krunz, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2023: AI and Machine Learning for Communications and Networking, Feb. 2023. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icnc_2023.pdf)
 
