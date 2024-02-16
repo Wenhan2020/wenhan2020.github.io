@@ -10,6 +10,7 @@ I'm a last-year Ph.D. student @ the [University of Arizona](https://www.arizona.
 You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm open to internships and full-time jobs.
 
 # News
+* [02/2024] Our paper is accepted by IEEE Transactions on Machine Learning in Communications and Networking.
 * [11/2023] Two papers are accepted by IEEE ICNC'24.
 * [11/2023] Our paper is accepted by IEEE Transactions on Vehicular Technology.
 * [03/2023] I will serve as a reviewer for Elsevier Computer Communications.
@@ -51,6 +52,8 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
+
+* **Stealthy Adversarial Attacks on Machine Learning-Based Classifiers of Wireless Signals**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), Feb. 2024. 
 
 * **CyPA: A cyclic prefix assisted DNN for protocol classification in shared spectrum**, *Wenhan Zhang, Marwan Krunz, and Md Rabiul Hossein, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking, Feb. 2024 (acceptance rate 24.10%). [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icnc_2024_zhang.pdf)
   
