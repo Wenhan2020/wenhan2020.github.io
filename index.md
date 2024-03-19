@@ -53,13 +53,13 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 
-* **Stealthy adversarial attacks on machine learning-based classifiers of wireless signals**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), Feb. 2024. 
+* **Stealthy adversarial attacks on machine learning-based classifiers of wireless signals**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), vol. 2, pp. 261-279, Feb. 2024, doi: 10.1109/TMLCN.2024.3366161. 
 
 * **CyPA: A cyclic prefix assisted DNN for protocol classification in shared spectrum**, *Wenhan Zhang, Marwan Krunz, and Md Rabiul Hossein, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking, Feb. 2024 (acceptance rate 24.10%). [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icnc_2024_zhang.pdf)
   
 * **DL-SIC: Deep learning aided successive interference cancellation in shared spectrum**, Zhiwu Guo, *Wenhan Zhang, Ming Li, Marwan Krunz, and Mohammad Hossein Manshaei, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking, Feb. 2024. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icnc_2024_guo.pdf)
 
-* **Latency estimation and computational task offloading in vehicular mobile edge computing applications**, *Wenhan Zhang, Mingjie Feng, and Marwan Krunz, IEEE Transactions on Vehicular Technology (TVT), Nov. 2023. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/tvt_23.pdf)
+* **Latency estimation and computational task offloading in vehicular mobile edge computing applications**, *Wenhan Zhang, Mingjie Feng, and Marwan Krunz, IEEE Transactions on Vehicular Technology (TVT), Nov. 2023, doi: 10.1109/TVT.2023.3334192. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/tvt_23.pdf)
   
 * **Dynamic spectrum access in non-stationary environments: A DRL-LSTM integrated approach**, Mingjie Feng, *Wenhan Zhang, and Marwan Krunz, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2023: AI and Machine Learning for Communications and Networking, Feb. 2023. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icnc_2023.pdf)
 
