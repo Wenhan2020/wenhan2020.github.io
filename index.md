@@ -10,6 +10,7 @@ I'm a last-year Ph.D. student @ the [University of Arizona](https://www.arizona.
 You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm open to internships and full-time jobs.
 
 # News
+* [03/2024] I have defended my final dissertation. [\[news\]](https://wireless.ece.arizona.edu/news)
 * [02/2024] Our paper is accepted by IEEE Transactions on Machine Learning in Communications and Networking.
 * [11/2023] Two papers are accepted by IEEE ICNC'24.
 * [11/2023] Our paper is accepted by IEEE Transactions on Vehicular Technology.
