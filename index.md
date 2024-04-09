@@ -10,6 +10,7 @@ I'm a last-year Ph.D. student @ the [University of Arizona](https://www.arizona.
 You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm open to internships and full-time jobs.
 
 # News
+* [04/2024] I will serve as a reviewer for IEEE Transactions on Communications.
 * [03/2024] I have defended my final dissertation. [\[news\]](https://wireless.ece.arizona.edu/news)
 * [02/2024] Our paper is accepted by IEEE Transactions on Machine Learning in Communications and Networking.
 * [11/2023] Two papers are accepted by IEEE ICNC'24.
@@ -54,7 +55,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
 
-* **Stealthy adversarial attacks on machine learning-based classifiers of wireless signals**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), vol. 2, pp. 261-279, Feb. 2024, doi: 10.1109/TMLCN.2024.3366161. 
+* **Stealthy adversarial attacks on machine learning-based classifiers of wireless signals**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), vol. 2, pp. 261-279, Feb. 2024, doi: 10.1109/TMLCN.2024.3366161. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/TMLCN_2024_camera_ready_v3.pdf)
 
 * **CyPA: A cyclic prefix assisted DNN for protocol classification in shared spectrum**, *Wenhan Zhang, Marwan Krunz, and Md Rabiul Hossein, Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking, Feb. 2024 (acceptance rate 24.10%). [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/icnc_2024_zhang.pdf)
   
