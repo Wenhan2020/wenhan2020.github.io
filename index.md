@@ -4,12 +4,13 @@
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-I'm a last-year Ph.D. student @ the [University of Arizona](https://www.arizona.edu/admissions?gclid=CjwKCAjwqauVBhBGEiwAXOepkSKueiG3QsLdkJ6xL-t-di_FFhJ9HqhBQPh7FHvI2KLnCFmRwH1H4RoCic8QAvD_BwE). I'm working for the [WiCON Lab](https://wireless.ece.arizona.edu/) in the department of electrical and computer engineering under supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz). My primary research interests include **adversarial machine learning for wireless networks**, **spectrum sharing**, and **mobile cloud/edge computing**. 
+I was a Ph.D. student @ the [University of Arizona](https://www.arizona.edu/admissions?gclid=CjwKCAjwqauVBhBGEiwAXOepkSKueiG3QsLdkJ6xL-t-di_FFhJ9HqhBQPh7FHvI2KLnCFmRwH1H4RoCic8QAvD_BwE). I was with [WiCON Lab](https://wireless.ece.arizona.edu/) in the department of electrical and computer engineering under supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz). My primary research interests include **adversarial machine learning for wireless networks**, **spectrum sharing**, and **mobile cloud/edge computing**. 
 
 
-You can reach me by [wenhanzhang@email.arizona.edu](mailto:wenhanzhang@email.arizona.edu). Please feel free to contact me for any discussion or collaboration. I'm open to internships and full-time jobs.
+You can reach me by [wenhanzhang@arizona.edu](mailto:wenhanzhang@arizona.edu). Please feel free to contact me for any discussion or collaboration.
 
 # News
+* [06/2024] I have joined Apple as a wireless system engineer.
 * [04/2024] I will serve as a reviewer for IEEE Transactions on Communications.
 * [03/2024] I have defended my final dissertation. [\[news\]](https://wireless.ece.arizona.edu/news)
 * [02/2024] Our paper is accepted by IEEE Transactions on Machine Learning in Communications and Networking.
