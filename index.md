@@ -4,12 +4,13 @@
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-I was a Ph.D. student @ the [University of Arizona](https://www.arizona.edu/admissions?gclid=CjwKCAjwqauVBhBGEiwAXOepkSKueiG3QsLdkJ6xL-t-di_FFhJ9HqhBQPh7FHvI2KLnCFmRwH1H4RoCic8QAvD_BwE). I was with [WiCON Lab](https://wireless.ece.arizona.edu/) in the department of electrical and computer engineering under supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz). My primary research interests include **adversarial machine learning for wireless networks**, **spectrum sharing**, and **mobile cloud/edge computing**. 
+I was a Ph.D. student @ the [University of Arizona](https://www.arizona.edu/admissions?gclid=CjwKCAjwqauVBhBGEiwAXOepkSKueiG3QsLdkJ6xL-t-di_FFhJ9HqhBQPh7FHvI2KLnCFmRwH1H4RoCic8QAvD_BwE). I was with [WiCON Lab](https://wireless.ece.arizona.edu/) in the department of electrical and computer engineering under supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz). My primary research interests include **machine learning for wireless systems**, **spectrum sharing**, and **mobile cloud/edge computing**. 
 
 
 You can reach me by [wenhanzhang@arizona.edu](mailto:wenhanzhang@arizona.edu). Please feel free to contact me for any discussion or collaboration.
 
 # News
+* [08/2024] One paper is accepted by IEEE MILCOM'24.
 * [06/2024] I have joined Apple as a wireless system engineer.
 * [04/2024] I will serve as a reviewer for IEEE Transactions on Communications.
 * [03/2024] I have defended my final dissertation. [\[news\]](https://wireless.ece.arizona.edu/news)
@@ -55,6 +56,7 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). -->
+* **Filtered randomized smoothing: A new defense for robust modulation classification**, *Wenhan Zhang, Meiyu Zhong, Ravi Tandon, and Marwan Krunz, Proc. of the IEEE Military Communications Conference (MILCOM) 2024 – Track 5, Washington, DC, Oct. 28 – Nov. 1, 2024. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/milcom_2024.pdf)
 
 * **Stealthy adversarial attacks on machine learning-based classifiers of wireless signals**, *Wenhan Zhang, Marwan Krunz, and Gregory Ditzler, IEEE Transactions on Machine Learning in Communications and Networking (TMLCN), vol. 2, pp. 261-279, Feb. 2024, doi: 10.1109/TMLCN.2024.3366161. [\[paper\]](https://github.com/Wenhan2020/wenhan2020.github.io/blob/main/papers/TMLCN_2024_camera_ready_v3.pdf)
 
