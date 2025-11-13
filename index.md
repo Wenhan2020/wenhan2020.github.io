@@ -4,7 +4,7 @@ layout: default
 
 ## About {#about}
 
-I was a Ph.D. student @ the [University of Arizona](https://www.arizona.edu/), working with [WiCON Lab](https://wireless.ece.arizona.edu/) in the Department of Electrical and Computer Engineering under the supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz).
+I am a Wireless Systems Engineer at [Apple](https://www.apple.com/). I recently completed my Ph.D. @ the [University of Arizona](https://www.arizona.edu/), working with [WiCON Lab](https://wireless.ece.arizona.edu/) in the Department of Electrical and Computer Engineering under the supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz).
 
 **Research Interests:**
 - Machine learning for wireless systems
