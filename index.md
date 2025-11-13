@@ -13,8 +13,6 @@ I am a Wireless Systems Engineer at [Apple](https://www.apple.com/). I recently 
 - Adversarial machine learning in communications
 - Signal detection and classification
 
-[View News](news.md)
-
 ## Publications {#publications}
 
 <div class="publication">
