@@ -9,9 +9,6 @@ I was a Ph.D. student @ the [University of Arizona](https://www.arizona.edu/), w
 - Adversarial machine learning in communications
 - Signal detection and classification
 
-**Current Position:**
-Wireless System Engineer at Apple.
-
 ## News {#news}
 
 <ul class="news-list">
