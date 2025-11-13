@@ -5,17 +5,15 @@
 
 /* About Container Layout */
 .about-container {
-  display: flex;
-  gap: 40px;
-  align-items: flex-start;
+  display: block;
 }
 
 .about-text {
-  flex: 1;
+  margin-bottom: 60px;
 }
 
 .about-map {
-  flex-shrink: 0;
+  margin-top: 20px;
 }
 
 /* Navigation Tabs - Main Content Area */
