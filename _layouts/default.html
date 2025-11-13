@@ -23,6 +23,12 @@
           {% else %}
             <a href="/news.html" class="nav-link">News</a>
           {% endif %}
+
+          {% if page.url == "/publications/" or page.url == "/publications.html" %}
+            <a href="/publications.html" class="nav-link active">Publications</a>
+          {% else %}
+            <a href="/publications.html" class="nav-link">Publications</a>
+          {% endif %}
         </nav>
 
         {% if site.logo %}
