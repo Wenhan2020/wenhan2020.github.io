@@ -11,26 +11,6 @@
   <body>
     <div class="wrapper">
       <header>
-        <nav class="top-nav">
-          {% if page.url == "/" %}
-            <a href="/" class="nav-link active">About</a>
-          {% else %}
-            <a href="/" class="nav-link">About</a>
-          {% endif %}
-
-          {% if page.url == "/news/" or page.url == "/news.html" %}
-            <a href="/news.html" class="nav-link active">News</a>
-          {% else %}
-            <a href="/news.html" class="nav-link">News</a>
-          {% endif %}
-
-          {% if page.url == "/publications/" or page.url == "/publications.html" %}
-            <a href="/publications.html" class="nav-link active">Publications</a>
-          {% else %}
-            <a href="/publications.html" class="nav-link">Publications</a>
-          {% endif %}
-        </nav>
-
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -60,6 +40,26 @@
         {% endif %}
       </header>
       <section>
+
+      <nav class="main-nav">
+        {% if page.url == "/" %}
+          <a href="/" class="nav-link active">About</a>
+        {% else %}
+          <a href="/" class="nav-link">About</a>
+        {% endif %}
+
+        {% if page.url == "/news/" or page.url == "/news.html" %}
+          <a href="/news.html" class="nav-link active">News</a>
+        {% else %}
+          <a href="/news.html" class="nav-link">News</a>
+        {% endif %}
+
+        {% if page.url == "/publications/" or page.url == "/publications.html" %}
+          <a href="/publications.html" class="nav-link active">Publications</a>
+        {% else %}
+          <a href="/publications.html" class="nav-link">Publications</a>
+        {% endif %}
+      </nav>
 
       {{ content }}
 
