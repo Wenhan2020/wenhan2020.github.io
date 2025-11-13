@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About {#about}
 
 I was a Ph.D. student @ the [University of Arizona](https://www.arizona.edu/), working with [WiCON Lab](https://wireless.ece.arizona.edu/) in the Department of Electrical and Computer Engineering under the supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz).
