@@ -2,14 +2,22 @@
 layout: default
 ---
 
-I am a Wireless Systems Engineer at [Apple](https://www.apple.com/). I recently completed my Ph.D. @ the [University of Arizona](https://www.arizona.edu/), working with [WiCON Lab](https://wireless.ece.arizona.edu/) in the Department of Electrical and Computer Engineering under the supervision of [Prof. Marwan Krunz](https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz).
+<div class="about-container">
+  <div class="about-text">
+    <p>I am a Wireless Systems Engineer at <a href="https://www.apple.com/">Apple</a>. I recently completed my Ph.D. @ the <a href="https://www.arizona.edu/">University of Arizona</a>, working with <a href="https://wireless.ece.arizona.edu/">WiCON Lab</a> in the Department of Electrical and Computer Engineering under the supervision of <a href="https://ece.engineering.arizona.edu/faculty-staff/faculty/marwan-krunz">Prof. Marwan Krunz</a>.</p>
 
-**Research Interests:**
-- Machine learning for wireless systems
-- Spectrum sharing and dynamic spectrum access
-- Mobile cloud/edge computing
-- Adversarial machine learning in communications
-- Signal detection and classification
+    <p><strong>Research Interests:</strong></p>
+    <ul>
+      <li>Machine learning for wireless systems</li>
+      <li>Spectrum sharing and dynamic spectrum access</li>
+      <li>Mobile cloud/edge computing</li>
+      <li>Adversarial machine learning in communications</li>
+      <li>Signal detection and classification</li>
+    </ul>
+  </div>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XL9Gt-Ypm1UWZHhIAiEAZymffEFjoAnjf_6YinPu1do&cl=ffffff&w=200"></script>
+  <div class="about-map">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=XL9Gt-Ypm1UWZHhIAiEAZymffEFjoAnjf_6YinPu1do&cl=ffffff&w=200"></script>
+  </div>
+</div>
 

@@ -3,6 +3,21 @@
 
 @import "jekyll-theme-minimal";
 
+/* About Container Layout */
+.about-container {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+}
+
+.about-text {
+  flex: 1;
+}
+
+.about-map {
+  flex-shrink: 0;
+}
+
 /* Navigation Tabs - Main Content Area */
 .main-nav {
   text-align: center;
