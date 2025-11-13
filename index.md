@@ -12,13 +12,6 @@ I was a Ph.D. student @ the [University of Arizona](https://www.arizona.edu/), w
 **Current Position:**
 Wireless System Engineer at Apple.
 
-<div class="contact-section">
-  <strong>Get in Touch:</strong><br>
-  📧 Email: <a href="mailto:wenhanzhang@arizona.edu">wenhanzhang@arizona.edu</a><br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/wenhan-zhang-/">Wenhan Zhang</a><br>
-  🔗 GitHub: <a href="https://github.com/wenhan2020">wenhan2020</a>
-</div>
-
 ## News {#news}
 
 <ul class="news-list">

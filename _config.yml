@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 title: Wenhan Zhang
 locale: "en-US"
 
@@ -15,6 +15,17 @@ author:
     scholar: https://scholar.google.com/citations?user=sbC1fQsAAAAJ&hl=en
 
 avatar: /Wenhan2.jpg
+
+# Social Links (displayed in sidebar)
+social:
+  - platform: GitHub
+    url: https://github.com/wenhan2020
+  - platform: LinkedIn
+    url: https://www.linkedin.com/in/wenhan-zhang-43bb22126/
+  - platform: Email
+    url: mailto:wenhanzhang@arizona.edu
+  - platform: Google Scholar
+    url: https://scholar.google.com/citations?user=sbC1fQsAAAAJ&hl=en
 
 # Custom CSS
 sass:
