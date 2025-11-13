@@ -22,7 +22,7 @@ layout: default
   </div>
 </div>
 
-<div class="publication">
+<div class="publication">3">
   <div class="publication-title">CyPA: A cyclic prefix assisted DNN for protocol classification in shared spectrum</div>
   <div class="publication-meta">Wenhan Zhang, Marwan Krunz, and Md Rabiul Hossein<br>
   <em>Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking</em>, Feb. 2024 (acceptance rate 24.10%).</div>
@@ -31,7 +31,7 @@ layout: default
   </div>
 </div>
 
-<div class="publication">
+<div class="publication">4">
   <div class="publication-title">DL-SIC: Deep learning aided successive interference cancellation in shared spectrum</div>
   <div class="publication-meta">Zhiwu Guo, Wenhan Zhang, Ming Li, Marwan Krunz, and Mohammad Hossein Manshaei<br>
   <em>Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2024: AI and Machine Learning for Communications and Networking</em>, Feb. 2024.</div>
@@ -40,7 +40,7 @@ layout: default
   </div>
 </div>
 
-<div class="publication">
+<div class="publication">5">
   <div class="publication-title">Latency estimation and computational task offloading in vehicular mobile edge computing applications</div>
   <div class="publication-meta">Wenhan Zhang, Mingjie Feng, and Marwan Krunz<br>
   <em>IEEE Transactions on Vehicular Technology (TVT)</em>, Nov. 2023, doi: 10.1109/TVT.2023.3334192.</div>
@@ -49,7 +49,7 @@ layout: default
   </div>
 </div>
 
-<div class="publication">
+<div class="publication">6">
   <div class="publication-title">Dynamic spectrum access in non-stationary environments: A DRL-LSTM integrated approach</div>
   <div class="publication-meta">Mingjie Feng, Wenhan Zhang, and Marwan Krunz<br>
   <em>Proc. of the IEEE International Conference on Computing, Networking and Communications (ICNC) 2023: AI and Machine Learning for Communications and Networking</em>, Feb. 2023.</div>
@@ -58,7 +58,7 @@ layout: default
   </div>
 </div>
 
-<div class="publication">
+<div class="publication">7">
   <div class="publication-title">Machine learning based protocol classification in unlicensed 5 GHz bands</div>
   <div class="publication-meta">Wenhan Zhang and Marwan Krunz<br>
   <em>Proc. of the IEEE International Conference on Communications (ICC) 2022 Conference - Workshop on Spectrum Sharing Technology for Next Generation Communications</em>, Seoul, South Korea, May 2022.</div>
